@@ -1,0 +1,1 @@
+---@todo make the fucking script 😂
